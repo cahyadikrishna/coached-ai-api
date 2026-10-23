@@ -49,6 +49,6 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "faraday", "~> 2.14"
+gem "faraday", "~> 2.15"
 gem "ruby-openai", "~> 8.3"
 gem "dotenv-rails", "~> 3.2"
